@@ -1,0 +1,16 @@
+@import url('../popupFullSizeImage/__content/popupFullSizeImage__content.css');
+@import url('../popupFullSizeImage/__image/popupFullSizeImage__image.css');
+@import url('../popupFullSizeImage/_is-opened/popupFullSizeImage_is-opened.css');
+
+
+.popupFullSizeImage {
+    position: fixed;
+    top: 10vh;
+    left: 10vw;
+    width: 80vw;
+    max-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+  }

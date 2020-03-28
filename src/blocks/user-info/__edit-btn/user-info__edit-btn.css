@@ -1,0 +1,26 @@
+.user-info__edit-btn {
+    display: block;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    width: 38px;
+    height: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    cursor: pointer;
+    margin: 28px 0 0 0;
+  }
+
+.user-info__edit-btn:hover {
+    background-color: white;
+    color: black;
+}
+
+@media screen and (max-width: 980px) {
+  .user-info__edit-btn {
+    text-align: center;
+    margin: 20px auto 0 auto;
+  }
+}
