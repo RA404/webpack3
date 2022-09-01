@@ -1,5 +1,7 @@
-# Webpack
-Сборка проекта webpack-ом
-# Project link 
-[https://github.com/RA404/webpack3](https://github.com/RA404/webpack3)
-## Version v0.0.1
+# Webpack Config
+## About
+Webpack config for packaging JS, CSS and images
+## How to run
+You can just copy the finished webpack.config.js to your project
+## Technology
+JS, html, css
